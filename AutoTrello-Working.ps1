@@ -1,4 +1,4 @@
-# ============================================================================
+﻿# ============================================================================
 # TRELLO – Trello Card Seeder (générique, compatible PowerShell ISE 5.1)
 # - Demande : KEY, TOKEN, Board (URL/shortLink), Nom de liste, Nom du label, Couleur (menu).
 # - GET corrigé : key/token en query string (évite 404).
