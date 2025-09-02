@@ -1,0 +1,29 @@
+# Configuration Trello (contient les clés API et tokens)
+trello-config.json
+
+# Configurations spécifiques aux boards
+board-config-*.json
+
+# Fichiers temporaires PowerShell
+*.tmp
+*.log
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers système Windows
+Thumbs.db
+.DS_Store
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de cache
+*.cache
+
+# Fichiers de configuration personnelle
+config.local.json
